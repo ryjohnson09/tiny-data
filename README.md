@@ -6,6 +6,10 @@
 
 The primary goal of `tiny-data` is to curate and compile a diverse collection of small, easily comprehensible datasets that encompass a wide range of disciplines and subject areas for exploratory data analysis.
 
+## Data Access
+
+All datasets (CSV files) are sub-directories within the `tiny-data/dataprojects/` directory. We've also compiled the final datasets into a duckdb database file (`tiny-data.duckdb`).
+
 ## Current Datasets (`tiny-data/dataprojects/`)
 
 ### Environmental

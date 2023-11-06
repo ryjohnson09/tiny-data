@@ -11,7 +11,7 @@ library("duckdb")
 library(tidyverse)
 
 # Create database file
-con <- dbConnect(duckdb(), dbdir = "tidy-data.duckdb")
+con <- dbConnect(duckdb(), dbdir = "tiny-data.duckdb")
 ```
 
 ## Write CSVs to DuckDB
